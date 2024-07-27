@@ -12,7 +12,7 @@ author "YourMAPS Tafé"
 
 version "1.0 - July 2024"
 
---client_scripts {'load_unload_interiors.lua'}
+client_scripts {'load_unload_interiors.lua'}
 
 files {'bac_train_int.xml'}
 
