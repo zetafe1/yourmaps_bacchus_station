@@ -20,7 +20,7 @@ All props are part of the MLOArchetype, so they do not count on ydr pool, they a
 
 Tafé
 
-" # Why Choose MLO (Multi Level Object)?
+" Why Choose MLO (Multi Level Object)?
 
 MLO (Multi Level Object) offers the highest level of optimization for interior environments compared to other non-native solutions. 
 When implemented correctly, with a well-considered number of rooms and portals, it significantly enhances performance. 
