@@ -17,10 +17,11 @@ This is a free MLO for your server so you can understand how MLO works.
 One basic MLO with 2 ydr (drawables) + 1 ybn (colision mloarchetype)
 
 All props are part of the MLOArchetype, so they do not count on ydr pool, they are part of the MLO.
+Please understand how native interiors work and do not take for granted what some people say about MLO when they want to sell you non-native solutions.
 
 Tafé
 
-" Why Choose MLO (Multi Level Object)?
+"Why Choose MLO (Multi Level Object)?
 
 MLO (Multi Level Object) offers the highest level of optimization for interior environments compared to other non-native solutions. 
 When implemented correctly, with a well-considered number of rooms and portals, it significantly enhances performance. 
@@ -45,5 +46,5 @@ By intelligently managing which parts of the environment are rendered through th
 Additionally, the integration of reflection probes elevates the aesthetic quality, providing realistic reflections that enhance the visual experience. 
 For developers and designers aiming for high performance and stunning interiors, MLO stands out as the optimal solution."
 
-text credits to Ktos and PolyCode
+text credits to Ktoś and PolyCode
 
