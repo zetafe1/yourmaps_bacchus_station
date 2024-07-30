@@ -14,7 +14,7 @@ https://youtu.be/ffr40pGnQ3o
 
 This is a free MLO for your server so you can understand how MLO works.
 
-One basic MLO with 2 ydr (drawables) + 1 ybn (colision mloarchetype)
+One basic MLO with 2 ydr (drawables) + 1 ybn (colision mloarchetype) + 1 world ybn
 
 All props are part of the MLOArchetype, so they do not count on ydr pool, they are part of the MLO.
 Please understand how native interiors work and do not take for granted what some people say about MLO when they want to sell you non-native solutions.
